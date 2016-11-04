@@ -16,7 +16,6 @@ tmp/*
 core
 Makefile
 .idea/
-*.gem
 perf/profile.rb
 perf/*.pdf
 perf/*.profile
